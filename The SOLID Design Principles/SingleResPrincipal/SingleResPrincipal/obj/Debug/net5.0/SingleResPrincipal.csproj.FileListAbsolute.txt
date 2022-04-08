@@ -1,0 +1,16 @@
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\bin\Debug\net5.0\SingleResPrincipal.exe
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\bin\Debug\net5.0\SingleResPrincipal.deps.json
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\bin\Debug\net5.0\SingleResPrincipal.runtimeconfig.json
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\bin\Debug\net5.0\SingleResPrincipal.runtimeconfig.dev.json
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\bin\Debug\net5.0\SingleResPrincipal.dll
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\bin\Debug\net5.0\ref\SingleResPrincipal.dll
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\bin\Debug\net5.0\SingleResPrincipal.pdb
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.csproj.AssemblyReference.cache
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.AssemblyInfoInputs.cache
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.AssemblyInfo.cs
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.dll
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\ref\SingleResPrincipal.dll
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.pdb
+D:\Projects\DesignPattern\SingleResPrincipal\SingleResPrincipal\obj\Debug\net5.0\SingleResPrincipal.genruntimeconfig.cache
