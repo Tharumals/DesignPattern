@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\DesignPattern\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj": {}
+    "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\DesignPattern\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj": {
+    "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\DesignPattern\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj",
+        "projectUniqueName": "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj",
         "projectName": "SingleResPrincipal",
-        "projectPath": "D:\\Projects\\DesignPattern\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj",
+        "projectPath": "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj",
         "packagesPath": "C:\\Users\\Tharumal\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\DesignPattern\\SingleResPrincipal\\SingleResPrincipal\\obj\\",
+        "outputPath": "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\SingleResPrincipal\\SingleResPrincipal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharumal\\AppData\\Roaming\\NuGet\\NuGet.Config",

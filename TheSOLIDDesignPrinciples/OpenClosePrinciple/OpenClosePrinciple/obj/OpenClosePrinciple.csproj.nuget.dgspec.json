@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\DesignPattern\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj": {}
+    "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\DesignPattern\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj": {
+    "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\DesignPattern\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj",
+        "projectUniqueName": "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj",
         "projectName": "OpenClosePrinciple",
-        "projectPath": "D:\\Projects\\DesignPattern\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj",
+        "projectPath": "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\OpenClosePrinciple\\OpenClosePrinciple\\OpenClosePrinciple.csproj",
         "packagesPath": "C:\\Users\\Tharumal\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\DesignPattern\\OpenClosePrinciple\\OpenClosePrinciple\\obj\\",
+        "outputPath": "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\OpenClosePrinciple\\OpenClosePrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharumal\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hIoP00E8lIjjKqb5OI2xmbp6qP7SmbPHpyzCsSfgVGVTmLoF8cUo259TrLHMaWg0nO3NFyRb1e1vlWwX5VogDg==",
+  "dgSpecHash": "XjlmWHCvZIg6+F0nSSPtlJ96S+AZAkq7pqcIk4PG9DG6dpXppMENsKk2Vab5GwIyD21mu6O/zE8w9/D7aphuzg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DesignPattern\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj",
+  "projectFilePath": "D:\\Projects\\DesignPattern\\TheSOLIDDesignPrinciples\\SingleResPrincipal\\SingleResPrincipal\\SingleResPrincipal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
