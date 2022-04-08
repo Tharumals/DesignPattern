@@ -1,0 +1,16 @@
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.exe
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.deps.json
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.runtimeconfig.json
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.runtimeconfig.dev.json
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\ref\OpenClosePrinciple.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.pdb
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.csproj.AssemblyReference.cache
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.AssemblyInfoInputs.cache
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.AssemblyInfo.cs
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\ref\OpenClosePrinciple.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.pdb
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.genruntimeconfig.cache
