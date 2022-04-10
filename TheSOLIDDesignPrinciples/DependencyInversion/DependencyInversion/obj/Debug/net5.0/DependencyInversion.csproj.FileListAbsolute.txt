@@ -1,0 +1,16 @@
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\bin\Debug\net5.0\DependencyInversion.exe
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\bin\Debug\net5.0\DependencyInversion.deps.json
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\bin\Debug\net5.0\DependencyInversion.runtimeconfig.json
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\bin\Debug\net5.0\DependencyInversion.runtimeconfig.dev.json
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\bin\Debug\net5.0\DependencyInversion.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\bin\Debug\net5.0\ref\DependencyInversion.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\bin\Debug\net5.0\DependencyInversion.pdb
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.csproj.AssemblyReference.cache
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.AssemblyInfoInputs.cache
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.AssemblyInfo.cs
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\ref\DependencyInversion.dll
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.pdb
+D:\Projects\DesignPattern\TheSOLIDDesignPrinciples\DependencyInversion\DependencyInversion\obj\Debug\net5.0\DependencyInversion.genruntimeconfig.cache
